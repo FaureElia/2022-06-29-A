@@ -15,8 +15,8 @@ import javafx.scene.control.ComboBox;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 
-public class FXMLController {
-	
+public class FXMLController { //prova branch 2
+	//prova nuova
 	private Model model;
 
     @FXML // ResourceBundle that was given to the FXMLLoader
